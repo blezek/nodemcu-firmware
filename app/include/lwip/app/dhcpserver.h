@@ -1,7 +1,7 @@
 #ifndef __DHCPS_H__
 #define __DHCPS_H__
 
-#define USE_DNS
+#define USE_DNS 1
 
 typedef struct dhcps_state{
         sint16_t state;
